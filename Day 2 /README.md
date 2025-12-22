@@ -7,9 +7,9 @@ Language:
       Python
 
 How to run : 
-      1.Open an online python compiler.
-      2.Copy and paste the code.
-      3.Click the run button.
+      Open an online python compiler.
+      Copy and paste the code.
+      Click the run button.
 
 Code: 
 
