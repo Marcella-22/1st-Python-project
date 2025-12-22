@@ -8,6 +8,7 @@ Language: Python
 How to run : ~Open an online python compiler. ~Copy and paste the code. ~Click the run button.
 
 Code: 
+      
       name= input("Enter your name")
       
       age= input("Enter your age")
