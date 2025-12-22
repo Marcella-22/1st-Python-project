@@ -14,4 +14,4 @@ elif age < 20:
 else:
     print("You are an adult")
     
-Output: ![Output Screenshot](day 3 output.png)
+Output: ![Output](day 3 output.png)
