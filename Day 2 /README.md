@@ -9,7 +9,9 @@ How to run : ~Open an online python compiler. ~Copy and paste the code. ~Click t
 
 Code: 
       name= input("Enter your name")
+      
       age= input("Enter your age")
+      
       print("Hello", name)
       print("You are",age,"years old")
 
