@@ -12,12 +12,14 @@ How to run :
     Click the run button.
 
 Code:
+```python
       
       print("I am Marcella")
   
       print("I am in grade 9")
   
       print("I want to become a remote software engineer")
+```
   
 Output: <img width="1366" height="768" alt="day 1 output (1)" src="https://github.com/user-attachments/assets/2914b6e9-be3c-4443-a258-bb4f7dafe272" />
 
