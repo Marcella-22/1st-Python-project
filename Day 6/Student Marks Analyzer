@@ -11,5 +11,3 @@ average =total / len(marks)
 print("Marks: ", marks)
 print("Total: ",total)
 print("Average: ", average) 
-
-
