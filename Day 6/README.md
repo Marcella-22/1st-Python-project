@@ -3,7 +3,7 @@ Description : A aimple python programme that asks the user to enter the marks of
 
 Language : Python
 
-How to run:
+How to run: Open an online python compiler. Copy and paste the code. Click the run button.Enter the marks when prompted.
 
 Code:
 ```python
