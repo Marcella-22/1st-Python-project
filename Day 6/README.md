@@ -12,7 +12,7 @@ count = int(input("how many subjects? "))
  
 for i in range(count):
     mark=int(input(f"Enter mark {i+1}: "))
-    marks.append(mark)
+    marks.append(mark) 
 
 total = sum(marks)
 average =total / len(marks)
