@@ -3,7 +3,7 @@ Description : A simple python programme that performs basic arithmetic operation
 
 Language : Python
 
-How to run: Open
+How to run: Open an online python compiler. Copy and paste the code. Click the run button.Enter the 1st number and the 2nd number when prompted.
 
 Code:
  ```python
