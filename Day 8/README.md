@@ -14,4 +14,5 @@ username = clean_name.replace(" ", "_")
 
 print("Generated username:", username)
 ```
-Output :![Uploading Screenshot 2026-01-19 09.34.18.png…]()
+Output : <img width="1366" height="768" alt="Screenshot 2026-01-19 09 34 18" src="https://github.com/user-attachments/assets/cf5b2aa2-9925-4f49-8c5e-f8d733d73e64" />
+
